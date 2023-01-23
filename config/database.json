@@ -1,0 +1,139 @@
+{
+  "users": [
+    {
+      "email": "dotsenvania@gmail.com",
+      "password": "dtsIvan",
+      "firstName": "Ivan",
+      "lastName": "Dotsen",
+      "phoneNumber": "+380660146754",
+      "id": "31d14e9c-ab0b-4b6e-a4fd-64e91e0300b8",
+      "createdAt": "2023-01-20T16:44:21.602Z",
+      "updatedAt": "2023-01-23T05:56:29.050Z"
+    },
+    {
+      "email": "Oksanddaaaaa@gmail.com",
+      "password": "Oksanddaaaaa",
+      "firstName": "igor",
+      "lastName": "Onyfrichuk",
+      "phoneNumber": "+380478965123",
+      "id": "2f1219b7-a11a-4838-b2fc-1e57c72a14f9",
+      "createdAt": "2023-01-21T08:16:52.329Z",
+      "updatedAt": "2023-01-21T13:39:13.777Z"
+    },
+    {
+      "email": "Oleg@gmail.com",
+      "password": "Oleg",
+      "firstName": "Oleg",
+      "lastName": "Onyfrichuk",
+      "phoneNumber": "+380468965123",
+      "id": "6b588df8-ae16-4be6-85c7-8ac238195879",
+      "createdAt": "2023-01-21T13:45:31.318Z",
+      "updatedAt": "2023-01-21T13:39:13.777Z"
+    },
+    {
+      "email": "Ilon@gmail.com",
+      "password": "111",
+      "firstName": "Ilon",
+      "lastName": "Onyfrichuk",
+      "phoneNumber": "+380864935123",
+      "id": "03a00410-7565-491c-af34-8bc2b298aacb",
+      "createdAt": "2023-01-21T13:57:12.797Z",
+      "updatedAt": "2023-01-23T05:52:35.899Z"
+    },
+    {
+      "email": "likiss@gmail.com",
+      "password": "123456789",
+      "firstName": "Orban",
+      "lastName": "Likis",
+      "phoneNumber": "+380864936423",
+      "id": "c68d447c-6e28-4a48-a6dd-5127420dbd65",
+      "createdAt": "2023-01-22T16:11:27.969Z",
+      "updatedAt": "2023-01-23T05:51:13.289Z"
+    }
+  ],
+  "fighters": [
+    {
+      "name": "hulk",
+      "power": 30,
+      "defense": 5,
+      "health": 100,
+      "id": "97f8806f-8d03-453e-a83d-9ecbe5c92d40",
+      "createdAt": "2023-01-21T08:43:16.090Z"
+    },
+    {
+      "name": "spiderMan",
+      "power": 25,
+      "defense": 3,
+      "health": 100,
+      "id": "31a3a6c2-4b8f-48ba-924a-4a045fd812f2",
+      "createdAt": "2023-01-21T08:44:00.573Z",
+      "updatedAt": "2023-01-21T16:07:57.113Z"
+    },
+    {
+      "name": "hulk",
+      "power": 23,
+      "defense": 2,
+      "health": 100,
+      "id": "5e27eed5-d596-46ee-b479-405198bbb943",
+      "createdAt": "2023-01-21T08:54:13.633Z"
+    },
+    {
+      "name": "hulkk",
+      "power": 23,
+      "defense": 2,
+      "health": 100,
+      "id": "4edaa887-a994-4bb4-a3c8-4aab27f6ef94",
+      "createdAt": "2023-01-21T08:56:28.145Z"
+    },
+    {
+      "name": "1",
+      "power": 120,
+      "defense": 3,
+      "health": 100,
+      "id": "8a2900e3-86c3-4df6-8fd8-e0b0e78705c6",
+      "createdAt": "2023-01-21T08:59:00.262Z"
+    },
+    {
+      "name": "halk",
+      "power": 80,
+      "defense": 5,
+      "health": 100,
+      "id": "458571b4-242d-48ec-83a9-3ebf968da3ff",
+      "createdAt": "2023-01-22T16:00:47.050Z"
+    },
+    {
+      "name": "marvel",
+      "power": 100,
+      "defense": 10,
+      "health": 100,
+      "id": "207fcdfb-6e9e-4ad0-9663-cdd8d6b79d64",
+      "createdAt": "2023-01-22T16:06:01.608Z"
+    },
+    {
+      "name": "marvell",
+      "power": 1,
+      "defense": 1,
+      "health": 100,
+      "id": "b1104713-bdf0-4c5a-9e94-ecefbb09a22a",
+      "createdAt": "2023-01-22T16:06:48.010Z"
+    },
+    {
+      "name": "spiderMann",
+      "power": 25,
+      "defense": 3,
+      "health": 100,
+      "id": "da89b9c7-e03c-47fb-bb48-db89509ded0d",
+      "createdAt": "2023-01-23T18:42:23.964Z"
+    },
+    {
+      "name": "spiderMan 2",
+      "power": 50,
+      "defense": 10,
+      "health": 79,
+      "id": "118ad6b4-c6a6-40c4-9286-58f4a7449834",
+      "createdAt": "2023-01-23T18:43:26.902Z",
+      "updatedAt": "2023-01-23T18:48:03.956Z"
+    }
+  ],
+  "fights": []
+}
